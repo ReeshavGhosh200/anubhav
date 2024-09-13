@@ -65,5 +65,6 @@ start.addEventListener("click", async () => {
     }
     sub.innerHTML = "";
 
-    read("Bangla holo ekta bhalo bhasa. Toder shobai ke bangla mon diye pora uchit. Bangla Bhasha ucharrito hole, ki kore bhujbo Shonkor o black mamba chelebela te samanya khoti kore barsharani te bhijbe. Bangla porle tumake sobai bhalo bolbe aur tumi bhalo nomber pele tomar maa baba tomake kub porshkar debe");
+    read("Bangla holo ekta bhalo bhasa. Toder shobai ke bangla mon diye pora uchit. Bangla Bhasha ucharrito hole, ki kore bhujbo Shonkor o black mamba chelebela te samanya khoti kore barsharani te bhijbe.");
+    read(" Bangla porle tumake sobai bhalo bolbe aur tumi bhalo nomber pele tomar maa baba tomake kub porshkar debe");
 });
