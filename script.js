@@ -3,7 +3,7 @@ const temp = document.getElementById("show");
 const text = document.getElementById("text");
 const sub = document.getElementById("sub");
 const boom = new Audio("./boom.mp3");
-const fullName = ["A", "n", "u", "b", "h", "a", "v", " ", "B", "i", "s", "w", "a", "s"];
+const fullName = ["A", "n", "u", "b", "h", "a", "b", " ", "B", "i", "s", "w", "a", "s"];
 
 function delay(ms) {return new Promise(resolve => setTimeout(resolve, ms));}
 
